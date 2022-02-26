@@ -1,4 +1,6 @@
 //block redirect
 /// blockp.js
 /// alias blc.js
-console.log('test');
+window.addEventListener('DOMContentLoaded',function () {
+  console.log('test1');
+});
