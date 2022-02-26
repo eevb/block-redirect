@@ -2,6 +2,6 @@
 /// blockp.js
 /// alias blc.js
 window.addEventListener('DOMContentLoaded',function () {
-  element = document.querySelector("#counter>[href]").click();
+  element = document.querySelector("#logo").click();
   console.log('test1');
 });
